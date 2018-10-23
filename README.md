@@ -1,0 +1,2 @@
+# PTC-Public-Transportation-Card
+Developed a prototype for bus transportation to utilize digital money for transaction. An interaction between the RFID chip inserted card and the RFID reader will deduct the money based on the distance travelled by the passenger. This project tells how the communication works among RFID, ZigBee and GPS (Global Positioning System) using embedded C code. Technologies Used: Embedded C, Keil μ4 version software, RFID, Zigbee and GPS.
